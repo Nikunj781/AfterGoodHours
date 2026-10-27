@@ -1,0 +1,10 @@
+{
+  "name": "aftergoodhours",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend/vite-project run dev",
+    "build": "npm --prefix frontend/vite-project run build",
+    "lint": "npm --prefix frontend/vite-project run lint",
+    "dev:backend": "npm --prefix backend run dev"
+  }
+}
